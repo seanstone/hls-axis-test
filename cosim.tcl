@@ -1,0 +1,5 @@
+source common.tcl
+csynth_design
+cosim_design
+close_solution
+exit
